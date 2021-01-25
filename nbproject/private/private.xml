@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/ardia/Documents/NetBeansProjects/LatihanCRUDMVCDAO/src/edu/argyaaf/latihanmvcjdbc/main/LatihanCRUDMVCDAO.java</file>
+            <file>file:/C:/Users/ardia/Documents/NetBeansProjects/LatihanCRUDMVCDAO/src/edu/argyaaf/latihanmvcjdbc/event/PelangganListener.java</file>
+            <file>file:/C:/Users/ardia/Documents/NetBeansProjects/LatihanCRUDMVCDAO/src/edu/argyaaf/latihanmvcjdbc/impl/PelangganDaoImpl.java</file>
+            <file>file:/C:/Users/ardia/Documents/NetBeansProjects/LatihanCRUDMVCDAO/src/edu/argyaaf/latihanmvcjdbc/error/PelangganException.java</file>
+            <file>file:/C:/Users/ardia/Documents/NetBeansProjects/LatihanCRUDMVCDAO/src/edu/argyaaf/latihanmvcjdbc/model/PelangganModel.java</file>
+            <file>file:/C:/Users/ardia/Documents/NetBeansProjects/LatihanCRUDMVCDAO/src/edu/argyaaf/latihanmvcjdbc/service/PelangganDao.java</file>
+            <file>file:/C:/Users/ardia/Documents/NetBeansProjects/LatihanCRUDMVCDAO/src/edu/argyaaf/latihanmvcjdbc/view/PelangganView.java</file>
+            <file>file:/C:/Users/ardia/Documents/NetBeansProjects/LatihanCRUDMVCDAO/src/edu/argyaaf/latihanmvcjdbc/controller/PelangganController.java</file>
+            <file>file:/C:/Users/ardia/Documents/NetBeansProjects/LatihanCRUDMVCDAO/src/edu/argyaaf/latihanmvcjdbc/model/TabelPelangganModel.java</file>
+            <file>file:/C:/Users/ardia/Documents/NetBeansProjects/LatihanCRUDMVCDAO/src/edu/argyaaf/latihanmvcjdbc/entity/Pelanggan.java</file>
+            <file>file:/C:/Users/ardia/Documents/NetBeansProjects/LatihanCRUDMVCDAO/src/edu/argyaaf/latihanmvcjdbc/database/KingBarbershopDatabase.java</file>
+            <file>file:/C:/Users/ardia/Documents/NetBeansProjects/LatihanCRUDMVCDAO/src/edu/argyaaf/latihanmvcjdbc/view/MainViewPelanggan.java</file>
+        </group>
+    </open-files>
+</project-private>
